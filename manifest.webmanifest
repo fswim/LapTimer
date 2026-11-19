@@ -1,0 +1,14 @@
+{
+  "name": "LapTimer — Precision Stopwatch",
+  "short_name": "LapTimer",
+  "description": "A touch-friendly stopwatch with a very large lap button.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b111a",
+  "theme_color": "#101722",
+  "icons": [
+    { "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
